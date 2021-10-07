@@ -18,8 +18,7 @@ navbar-links:
     - DYUNS域名网: "https://www.dyuns.com/"
   Author's home: "https://www.dyuns.com"
 
-＃  - - 标识  - - ＃
-
+# --- 标识 --- #
 # 显示在导航栏中的图像 - 最适合方形图像
 # 如果你不想在导航栏中显示图像，请删除此参数
 #avatar: "/assets/img/avatar-icon.png"
