@@ -65,7 +65,6 @@ social-network-links:
 # rss-description: This website is a virtual proof that I'm awesome
 
 # --- 常规选项 --- #
-
 # 选择要在帖子中显示的社交网络共享链接
 share-links-active:
   twitter: false
