@@ -5,17 +5,16 @@
 # --- 必需的选项 --- #
 
 # 网站名称
-title: DBLOG
+title: DBLOG博客网
 
 # 你的名字显示在页脚
-author: DYUNS域名网-https://www.dyuns.com
+author: DYUNS域名网 http://www.dyuns.com
 
 # --- 导航栏中的链接列表 --- #
 
 navbar-links:
-  About Me: "aboutme"
   旗下网站:
-    - DYUNS域名网: "https://www.dyuns.com/"
+    - DYUNS域名网: "https://www.dyuns.com"
   免费域名: "https://www.dyuns.com"
 
 # --- 标识 --- #
@@ -74,7 +73,7 @@ share-links-active:
 
 # 如何在页脚中显示指向您网站的链接
 # 如果你不想要页脚中的链接，请删除它
-url-pretty: "https://www.dyuns.com"
+url-pretty: "DBLOG博客网"
 
 # 摘录字长 - 将提要页面上每个帖子的摘录截断为指定的字数
 excerpt_length: 50
