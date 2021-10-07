@@ -13,10 +13,10 @@ author: DYUNS域名网-https://www.dyuns.com
 # --- 导航栏中的链接列表 --- #
 
 navbar-links:
-  About Me: "DBLOG"
-  Resources:
+  About Me: "aboutme"
+  旗下网站:
     - DYUNS域名网: "https://www.dyuns.com/"
-  Author's home: "https://www.dyuns.com"
+  免费域名: "https://www.dyuns.com"
 
 # --- 标识 --- #
 # 显示在导航栏中的图像 - 最适合方形图像
