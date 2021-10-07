@@ -146,8 +146,7 @@ footer-link-col: "#404040"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-＃  - - 注释  - - ＃
-
+# --- 注释 --- #
 # 要使用 Disqus 评论，请注册 https://disqus.com 并填写您的 Disqus 短名称（不是用户 ID）
 #disqus: ""
 
