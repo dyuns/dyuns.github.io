@@ -163,9 +163,9 @@ footer-link-col: "#404040"
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
-# 要使用 Staticman 注释，请取消注释以下部分。 你可以离开 reCaptcha
-# 如果您不使用 reCaptcha 进行垃圾邮件保护，请注释以下内容
-# 使用Staticman需要高级知识，请咨询
+# 要使用 Staticman 注释，请取消注释以下部分。
+# 你可以离开 reCaptcha，如果您不使用 reCaptcha 进行垃圾邮件保护，请注释以下部分。
+# 使用Staticman需要高级知识，请咨询：
 # https://github.com/eduardoboucas/staticman/ 和 https://staticman.net/ 进一步了解
 # staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
