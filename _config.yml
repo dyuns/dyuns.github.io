@@ -146,7 +146,7 @@ footer-link-col: "#404040"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# --- 注释 --- #
+# --- 注释 ---#
 # 要使用 Disqus 评论，请注册 https://disqus.com 并填写您的 Disqus 短名称（不是用户 ID）
 #disqus: ""
 
@@ -185,8 +185,7 @@ date_format: "%B %-d, %Y"
 # Facebook 应用程序 ID
 #fb_app_id: ""
 
-# --- 你不需要触摸这里下面的任何东西（但如果你愿意，你可以）--- #
-
+# --- 您无需更改以下设置（但如果您愿意，那请随意更改吧） --- #
 # 输出选项（有关 Jekyll 站点的更多信息）
 timezone: "America/Toronto"
 markdown: kramdown
